@@ -1,35 +1,18 @@
 # geo-intersection
 
+This is a made as a sample application for use of the [GeoTools library](http://www.geotools.org) from Clojure.
 
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/sverres/geo-intersection
+
+(Use the Leiningen build tool to produce the jar file)
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar geo-intersection-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+    $ java -jar geo-intersection-0.1.0-standalone.jar 
 
 ## License
-
-Copyright © 2013 FIXME
 
 Distributed under the Eclipse Public License, the same as Clojure.

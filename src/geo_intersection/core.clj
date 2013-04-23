@@ -1,4 +1,5 @@
 (ns geo-intersection.core
+  (:gen-class)
   (:import [org.geotools.geometry.jts JTSFactoryFinder WKTReader2]))
 
 (defn make-geometry-WKT

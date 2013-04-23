@@ -1,6 +1,6 @@
 (defproject geo-intersection "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+  :description "geo-intersection is a sample application using JTS"
+  :url "https://github.com/sverres/geo-intersection"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :repositories {"osgeo-geotools" "http://download.osgeo.org/webdav/geotools"}
